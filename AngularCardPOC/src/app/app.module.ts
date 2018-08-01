@@ -37,7 +37,7 @@ import {
   MatTableModule,
   MatTabsModule,
   MatToolbarModule,
-  MatTooltipModule
+  MatTooltipModule,
 } from '@angular/material';
 import { HttpClientModule } from '@angular/common/http';
 
