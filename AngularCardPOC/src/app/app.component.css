@@ -1,0 +1,26 @@
+.card-container{
+  /* position: relative; */
+
+}
+
+.card-style {
+  /* background-color: aqua; */
+  min-height: 300px;
+}
+
+.card-pic {
+  width: 450px;
+}
+
+.text-card{
+  margin-top: -72px;
+  left: -138px;
+  position: relative;
+  color: white;
+  font-size: 18px;
+}
+
+
+.card-header{
+  font-size: 40px;
+}

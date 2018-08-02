@@ -26,6 +26,7 @@
     "@angular/router": "^6.0.3",
     "@swimlane/ngx-charts": "^8.1.0",
     "angular-resize-event": "^0.4.4",
+    "bootstrap": "^3.3.7",
     "convert-csv-to-json": "0.0.13",
     "core-js": "^2.5.4",
     "csvtojson": "^2.0.6",
@@ -56,6 +57,6 @@
     "protractor": "~5.3.0",
     "ts-node": "~5.0.1",
     "tslint": "~5.9.1",
-    "typescript": "~2.9.2"
+    "typescript": "^2.7.2"
   }
 }
