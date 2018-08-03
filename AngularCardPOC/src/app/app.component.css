@@ -12,6 +12,7 @@
 
 .card-pic {
   width: 450px;
+  border-radius: 22px;
 }
 
 .text-card{
